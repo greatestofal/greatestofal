@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @greatestofal
+- 👋 Hi, I’m Nnamdi Solomon Adibe
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence and Robotics
 - 🌱 I’m currently learning Data Science, and Machine Learning
 - 💞️ I’m looking to collaborate on all Machine Learning Projects
