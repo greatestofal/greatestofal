@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nnamdi Solomon Adibe
-- 👀 I’m interested in Full Stack, Data Science, Machine Learning, Artificial Intelligence and Robotics
+- 👀 I’m interested in Software Development 
 - 🌱 I write Python, HTML, CSS, Bootstrap, React, Node.js, and Javascript languages. 
 - 💞️ I’m looking to collaborate on all Full Stack Projects
 - 📫 How to reach me Email: techynnamdi@gmail.com or twitter @greatestofal
