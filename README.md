@@ -1,6 +1,6 @@
 - Hi, I’m Nnamdi Solomon Adibe
-- I’m interested in Software Development 
-- I write Python, HTML, CSS, Bootstrap, React, Node.js, and Javascript languages. 
+- I am a Full Stack Developer. 
+- I write Python, HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express.js, MySQL, Wordpress, and some other programming languages. 
 - I’m looking to collaborate on all Full Stack Projects
 - 📫 How to reach me Email: techynnamdi@gmail.com or on Twitter @greatestofal
 Thank you!
